@@ -6,7 +6,7 @@
 #         mid = (start + end) // 2
 
 #         if numbers[mid] == target:
-#             return numbers[mid]
+#             return mid
 #         if target < numbers[mid]:
 #             end = mid - 1
 #         else:
