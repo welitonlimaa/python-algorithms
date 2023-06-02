@@ -1,1 +1,0 @@
-print(first_string_sorted)

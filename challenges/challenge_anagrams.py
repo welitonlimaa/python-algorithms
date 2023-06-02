@@ -41,7 +41,7 @@ def is_anagram(first_string, second_string):
             first_string_sorted,
             second_string_sorted,
             False
-        )   
+        )
     return (
         first_string_sorted,
         second_string_sorted,
